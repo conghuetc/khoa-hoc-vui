@@ -1,0 +1,65 @@
+{
+  "topics": [
+    {
+      "id": "anh-sang",
+      "name": "Ánh sáng",
+      "icon": "💡",
+      "experiments": [
+        {
+          "id": "as-1",
+          "title": "Ánh sáng bị bẻ cong",
+          "desc": "Chiếu tia sáng qua nước, kính và xem tia sáng đổi hướng.",
+          "type": "virtual",
+          "url": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_vi.html",
+          "note": "Gợi ý: cho học sinh dự đoán trước khi chiếu tia sáng; sau đó so sánh với kết quả quan sát."
+        },
+        {
+          "id": "as-2",
+          "title": "Màu sắc của ánh sáng",
+          "desc": "Trộn ánh sáng đỏ, xanh lá, xanh dương để tạo ra màu mới.",
+          "type": "virtual",
+          "url": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_vi.html",
+          "note": "Gợi ý: yêu cầu học sinh tìm cách tạo ra ánh sáng trắng."
+        }
+      ]
+    },
+    {
+      "id": "am-thanh",
+      "name": "Âm thanh",
+      "icon": "🔔",
+      "experiments": [
+        {
+          "id": "at-1",
+          "title": "Sóng âm lan truyền",
+          "desc": "Quan sát sóng lan truyền khi âm thanh phát ra.",
+          "type": "virtual",
+          "url": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_vi.html",
+          "note": "Gợi ý: so sánh âm to - âm nhỏ, âm cao - âm thấp bằng cách thay đổi biên độ và tần số."
+        }
+      ]
+    },
+    {
+      "id": "nhiet-do",
+      "name": "Nhiệt độ",
+      "icon": "🌡️",
+      "experiments": [
+        {
+          "id": "nd-1",
+          "title": "Nóng lên, lạnh đi",
+          "desc": "Đun nóng và làm lạnh nước, quan sát các hạt chuyển động.",
+          "type": "virtual",
+          "url": "https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_vi.html",
+          "note": "Gợi ý: liên hệ với nước đá tan thành nước và nước bay hơi trong đời sống."
+        },
+        {
+          "id": "nd-2",
+          "title": "Năng lượng nhiệt",
+          "desc": "Năng lượng chuyển từ vật này sang vật khác.",
+          "type": "virtual",
+          "url": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_vi.html",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
